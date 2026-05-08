@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260507195921YQN6KM</value>
+    <value>20260508221007VIUTFZ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260507195921LRJCW8</value>
+    <value>202605082210076NCN7S</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -936,16 +936,16 @@
 <odeNavStructure>
   <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>CREDITS (Credito)</pageName>
+  <pageName>CREDITOS</pageName>
   <odeNavStructureOrder>12</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>CREDITS (Credito)</value>
+      <value>CREDITOS</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>CREDITS (Credito)</value>
+      <value>CREDITOS</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -988,9 +988,71 @@
 <p><strong>Digital Ecosystem &amp; Attributions:</strong></p>
 <p><strong>Design &amp; Graphics:</strong> All visual elements (Roadmap, Golden Ticket, and Templates) have been designed by the author using Canva.<br /><strong>Video Content: </strong>AI-Generated welcome avatar via HeyGen.<br /><strong>Interactive Tools:</strong> Quizizz, Padlet, Genially, and Google Forms.</p>
 <p><strong>License</strong>: This project is published under a Creative Commons BY-NC-SA 4.0 license. This allows other educators to use and adapt the material as long as authorship is recognized, it is not used for commercial purposes, and the resulting work is shared under the same license.</p>
-<p><strong title="">Download Source File:</strong> <a href="https://drive.google.com/file/d/17cwh4TZmVF2y-3jylf67i9GyWATDDtHR/view?usp=sharing" target="_blank" rel="noopener">Click here to download the editable .elp file</a></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019259861-d4lg7wrkg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">This educational material was created by Pepe Ruiz Mesa as part of the Digital Teaching Competence training (Level B2/C1) in 2026.</p>\n<p><strong>Digital Ecosystem &amp; Attributions:</strong></p>\n<p><strong>Design &amp; Graphics:</strong> All visual elements (Roadmap, Golden Ticket, and Templates) have been designed by the author using Canva.<br /><strong>Video Content: </strong>AI-Generated welcome avatar via HeyGen.<br /><strong>Interactive Tools:</strong> Quizizz, Padlet, Genially, and Google Forms.</p>\n<p><strong>License</strong>: This project is published under a Creative Commons BY-NC-SA 4.0 license. This allows other educators to use and adapt the material as long as authorship is recognized, it is not used for commercial purposes, and the resulting work is shared under the same license.</p>\n<p><strong title=\"\">Download Source File:</strong> <a href=\"https://drive.google.com/file/d/17cwh4TZmVF2y-3jylf67i9GyWATDDtHR/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Click here to download the editable .elp file</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019259861-d4lg7wrkg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">This educational material was created by Pepe Ruiz Mesa as part of the Digital Teaching Competence training (Level B2/C1) in 2026.</p>\n<p><strong>Digital Ecosystem &amp; Attributions:</strong></p>\n<p><strong>Design &amp; Graphics:</strong> All visual elements (Roadmap, Golden Ticket, and Templates) have been designed by the author using Canva.<br /><strong>Video Content: </strong>AI-Generated welcome avatar via HeyGen.<br /><strong>Interactive Tools:</strong> Quizizz, Padlet, Genially, and Google Forms.</p>\n<p><strong>License</strong>: This project is published under a Creative Commons BY-NC-SA 4.0 license. This allows other educators to use and adapt the material as long as authorship is recognized, it is not used for commercial purposes, and the resulting work is shared under the same license.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
+      <odeBlockId>block-1778270606816-tbbg39rf3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
+          <odeBlockId>block-1778270606816-tbbg39rf3</odeBlockId>
+          <odeIdeviceId>idevice-1778270606813-u83trx760</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">The Golden Ticket: Picking the Ultimate Destination </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto de planificación de viajes para Nivel Básico A2 centrado en en el uso del vocabulario de vacaciones y ciudades y en la gramática de comparativos y superlativos.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pepe Ruiz Mesa</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1053,8 +1115,55 @@
     <p>Roadmap: Our 2-Session Challenge<br />Session 1: Research &amp; Design (135 min)</p>
 <p>Phase 1 (45 min): Group formation and city discovery using the "Digital Explorer Platform".<br />Phase 2 (90 min): Creating the Genially presentation and the Comparison Chart. Focus on using comparatives and superlatives.<br />Session 2: Pitching &amp; Voting (135 min)</p>
 <p>Phase 1 (45 min): Final touches and rehearsal. Peer-feedback (check each other's drafts).<br />Phase 2 (75 min): The Travel Fair! 3-minute oral pitches by each group.<br />Phase 3 (15 min): The "Golden Ticket" voting ceremony and winner announcement.</p>
+<p><strong>Puedes consultar mi panel de curación de contenidos aquí: <a href="https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp" target="_blank" title="" rel="noopener">PADLET</a></strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005154295-h38d4zq61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Roadmap: Our 2-Session Challenge<br />Session 1: Research &amp; Design (135 min)</p>\n<p>Phase 1 (45 min): Group formation and city discovery using the \"Digital Explorer Platform\".<br />Phase 2 (90 min): Creating the Genially presentation and the Comparison Chart. Focus on using comparatives and superlatives.<br />Session 2: Pitching &amp; Voting (135 min)</p>\n<p>Phase 1 (45 min): Final touches and rehearsal. Peer-feedback (check each other's drafts).<br />Phase 2 (75 min): The Travel Fair! 3-minute oral pitches by each group.<br />Phase 3 (15 min): The \"Golden Ticket\" voting ceremony and winner announcement.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005154295-h38d4zq61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Roadmap: Our 2-Session Challenge<br />Session 1: Research &amp; Design (135 min)</p>\n<p>Phase 1 (45 min): Group formation and city discovery using the \"Digital Explorer Platform\".<br />Phase 2 (90 min): Creating the Genially presentation and the Comparison Chart. Focus on using comparatives and superlatives.<br />Session 2: Pitching &amp; Voting (135 min)</p>\n<p>Phase 1 (45 min): Final touches and rehearsal. Peer-feedback (check each other's drafts).<br />Phase 2 (75 min): The Travel Fair! 3-minute oral pitches by each group.<br />Phase 3 (15 min): The \"Golden Ticket\" voting ceremony and winner announcement.</p>\n<p><strong>Puedes consultar mi panel de curación de contenidos aquí: <a href=\"https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp\" target=\"_blank\" title=\"\" rel=\"noopener\">PADLET</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+      <odeBlockId>block-1778270159979-4pwrr313e</odeBlockId>
+      <blockName>Project Design &amp; Compliance Documents</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+          <odeBlockId>block-1778270159979-4pwrr313e</odeBlockId>
+          <odeIdeviceId>idevice-1778270159975-nar139l03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br title="" /><strong>Digital Safety &amp; Ethics: </strong><a href="https://drive.google.com/file/d/1PwwbKbzhQDZmr8U97rBC_8M5XvJH9FEy/view?usp=sharing" target="_blank" rel="noopener">Click here to view the Digital Safety Infographic</a></p>
+<p><br /><strong>Project Roadmap Timeline:</strong><a href="https://drive.google.com/file/d/1qLFEI35vAMB0uJsulV6hqQAS_zLoWa7-/view?usp=sharing" target="_blank" title="" rel="noopener"> Click here to view the Project Timeline</a></p>
+<p><br />Note: These documents ensure the project follows GDPR, copyright regulations, and pedagogical planning standards.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270159975-nar139l03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br title=\"\" /><strong>Digital Safety &amp; Ethics: </strong><a href=\"https://drive.google.com/file/d/1PwwbKbzhQDZmr8U97rBC_8M5XvJH9FEy/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Click here to view the Digital Safety Infographic</a></p>\n<p><br /><strong>Project Roadmap Timeline:</strong><a href=\"https://drive.google.com/file/d/1qLFEI35vAMB0uJsulV6hqQAS_zLoWa7-/view?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\"> Click here to view the Project Timeline</a></p>\n<p><br />Note: These documents ensure the project follows GDPR, copyright regulations, and pedagogical planning standards.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1066,7 +1175,7 @@
       <odeBlockId>block-1778149024494-idghkgbll</odeBlockId>
       <blockName>Curricular Integration (EOI A2)</blockName>
       <iconName>pieces</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
