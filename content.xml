@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507195921YQN6KM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507195921LRJCW8</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>The Golden Ticket: Picking the Ultimate Destination </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pepe Ruiz Mesa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de planificación de viajes para Nivel Básico A2 centrado en en el uso del vocabulario de vacaciones y ciudades y en la gramática de comparativos y superlativos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778175540638</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>THE GOLDEN TICKET</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>THE GOLDEN TICKET</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>THE GOLDEN TICKET</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+      <odeBlockId>block-1777978115971-n7sp8i9v2</odeBlockId>
+      <blockName>Project Overview &amp; Mission</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+          <odeBlockId>block-1777978115971-n7sp8i9v2</odeBlockId>
+          <odeIdeviceId>idevice-1777978115966-jmjyngy7s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Welcome to the Golden Ticket Challenge!<br />In this project, you will become a travel agent for a day. Your mission? To defend an international destination (London, Dublin, Edinburgh, etc.) and convince your classmates to spend their "Golden Ticket" there.</p>
+<p>You will use English to compare landmarks, find the best prices, and prove that your city is the most exciting or the easiest to visit.</p>
+<p>Level: A2 (EOI)</p>
+<p>Duration: 2 Sessions</p>
+<p>Final Product: A digital travel comparison and a live "pitch" to the class.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978115966-jmjyngy7s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Welcome to the Golden Ticket Challenge!<br />In this project, you will become a travel agent for a day. Your mission? To defend an international destination (London, Dublin, Edinburgh, etc.) and convince your classmates to spend their \"Golden Ticket\" there.</p>\n<p>You will use English to compare landmarks, find the best prices, and prove that your city is the most exciting or the easiest to visit.</p>\n<p>Level: A2 (EOI)</p>\n<p>Duration: 2 Sessions</p>\n<p>Final Product: A digital travel comparison and a live \"pitch\" to the class.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+      <odeBlockId>block-1777978942542-vxtvpfmbx</odeBlockId>
+      <blockName>Introduction Video: Meet your Mission!</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+          <odeBlockId>block-1777978942542-vxtvpfmbx</odeBlockId>
+          <odeIdeviceId>idevice-1777978942539-t733omdyd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center" style="width: 560px;">
+<figcaption class="figcaption header"><strong>COMING SOON: Watch this video for a quick explanation of the Golden Ticket challenge!"</strong></figcaption>
+</figure>
+<p><video width="800" height="450" controls="controls">
+<source src="{{context_path}}/content/resources/Intro_Golden_Ticket_A2.mp4.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978942539-t733omdyd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>COMING SOON: Watch this video for a quick explanation of the Golden Ticket challenge!\"</strong></figcaption>\n</figure>\n<p><video width=\"800\" height=\"450\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/Intro_Golden_Ticket_A2.mp4.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+      <odeBlockId>block-1778158039768-irntemdnz</odeBlockId>
+      <blockName>Author &amp; License</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977748602-6ox0mhlhj</odePageId>
+          <odeBlockId>block-1778158039768-irntemdnz</odeBlockId>
+          <odeIdeviceId>idevice-1778158039765-oudisl3vo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Project created by Pepe Ruiz Mesa. AI Video generated via HeyGen. License: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778158039765-oudisl3vo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Project created by Pepe Ruiz Mesa. AI Video generated via HeyGen. License: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977782923-0y7xn4vjg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DIGITAL RIGHTS &amp; PRIVACY</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIGITAL RIGHTS &amp; PRIVACY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DIGITAL RIGHTS &amp; PRIVACY</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977782923-0y7xn4vjg</odePageId>
+      <odeBlockId>block-1778002803454-mwgijfoyz</odeBlockId>
+      <blockName>Data Protection &amp; Copyright Compliance</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977782923-0y7xn4vjg</odePageId>
+          <odeBlockId>block-1778002803454-mwgijfoyz</odeBlockId>
+          <odeIdeviceId>idevice-1778002803445-e17w3vpkc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Privacy &amp; Digital Rights</strong></p>
+<p>This project is designed with a "Privacy by Design" approach, strictly following the G.Educaand guidelines and the LOPDGDD (Spanish Data Protection Law).</p>
+<p><strong>Student Privacy:</strong> No sensitive personal data is requested through external tools (Quizizz, Google Forms). All activities are conducted within the secure corporate educational environment.<br /><strong>Copyright: </strong>All multimedia elements (images and icons) are sourced from Pixabay or Canva under Creative Commons licenses. The introductory video was created using HeyGen AI specifically for this educational mission.<br /><strong>Digital Well-being (Plan B):</strong> To ensure inclusion and digital disconnection, an "analogue alternative" (PDF/Handouts) is available for students who cannot access digital tools or prefer physical materials.<br />Author: Pepe Ruiz Mesa – License: CC BY-NC-SA 4.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002803445-e17w3vpkc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Privacy &amp; Digital Rights</strong></p>\n<p>This project is designed with a \"Privacy by Design\" approach, strictly following the G.Educaand guidelines and the LOPDGDD (Spanish Data Protection Law).</p>\n<p><strong>Student Privacy:</strong> No sensitive personal data is requested through external tools (Quizizz, Google Forms). All activities are conducted within the secure corporate educational environment.<br /><strong>Copyright: </strong>All multimedia elements (images and icons) are sourced from Pixabay or Canva under Creative Commons licenses. The introductory video was created using HeyGen AI specifically for this educational mission.<br /><strong>Digital Well-being (Plan B):</strong> To ensure inclusion and digital disconnection, an \"analogue alternative\" (PDF/Handouts) is available for students who cannot access digital tools or prefer physical materials.<br />Author: Pepe Ruiz Mesa – License: CC BY-NC-SA 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977798511-qx2a8pdpg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>THE CHALLENGE: FINAL PRODUCT</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>THE CHALLENGE: FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>THE CHALLENGE: FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977798511-qx2a8pdpg</odePageId>
+      <odeBlockId>block-1777980096162-v82ipu8eb</odeBlockId>
+      <blockName>The Mission: Your Final Challenge</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977798511-qx2a8pdpg</odePageId>
+          <odeBlockId>block-1777980096162-v82ipu8eb</odeBlockId>
+          <odeIdeviceId>idevice-1777980096159-tgmxll2gt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>The Challenge:</strong> <strong>Travel Agent for a Day</strong></p>
+<p>Your final goal is to participate in a Travel Fair. In groups, you will act as professional travel agents. Your mission is to convince the rest of the class that your chosen city in the UK or Ireland is the perfect destination for their next holiday.</p>
+<ol>
+<li>What do you need to do?<br />Research: Use the <em title=""><a href="https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp" target="_blank" rel="noopener">Padlet</a> </em>to find information about your city in the UK or Ireland (transport, landmarks, and prices).</li>
+<li>Compare: Create a digital presentation (Canva, Genially, or PowerPoint) comparing your city with others.</li>
+<li>The Pitch: Present your city to the class. You must use comparatives and superlatives and vocabulary related to holidays and cities (e.g., "Dublin is livelier than London", "Edinburgh has the most beautiful castle").<br /></li>
+<li>The "Golden Ticket" Voting. At the end of the presentations, every student will have one Golden Ticket. You will vote for the most convincing group. The group with the most tickets wins!</li>
+</ol>
+<p>This is the Golden Ticket you will use to vote for your favorite destination! </p>
+<p><img src="{{context_path}}/content/resources/Elegant Art Deco Train Ticket.png" width="550px" height="390" alt="Golden Ticket" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Your Mission: The Ultimate Travel Pitch</p>
+<p>To complete this challenge, you and your team must create:</p>
+<p>A Digital Presentation (Genially): Showcasing the highlights of your chosen UK or Irish city.<br />The Comparison Chart: A visual tool comparing your city with others to prove yours is the best.<br />The Oral Pitch: A 3-minute presentation to convince your classmates to spend their "Golden Ticket" on your destination.</p>
+<p>_____________________________________________________________________________________________________</p>
+<p><strong>Plan B: Analog Backup</strong> (Avoid Digital Fatigue)<br />Following our "Digital Wellbeing" policy, if you feel overwhelmed by screens or have technical issues:</p>
+<ul>
+<li>Paper Templates: You can ask me for a physical Comparison Grid. Fill it out by hand first!<br /></li>
+<li>Offline Drafts: You can prepare your speech and drawings on paper before moving to the digital design.</li>
+<li>Physical Resources: These templates are provided by the teacher in class as printed handouts.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980096159-tgmxll2gt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>The Challenge:</strong> <strong>Travel Agent for a Day</strong></p>\n<p>Your final goal is to participate in a Travel Fair. In groups, you will act as professional travel agents. Your mission is to convince the rest of the class that your chosen city in the UK or Ireland is the perfect destination for their next holiday.</p>\n<ol>\n<li>What do you need to do?<br />Research: Use the <em title=\"\"><a href=\"https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp\" target=\"_blank\" rel=\"noopener\">Padlet</a> </em>to find information about your city in the UK or Ireland (transport, landmarks, and prices).</li>\n<li>Compare: Create a digital presentation (Canva, Genially, or PowerPoint) comparing your city with others.</li>\n<li>The Pitch: Present your city to the class. You must use comparatives and superlatives and vocabulary related to holidays and cities (e.g., \"Dublin is livelier than London\", \"Edinburgh has the most beautiful castle\").<br /></li>\n<li>The \"Golden Ticket\" Voting. At the end of the presentations, every student will have one Golden Ticket. You will vote for the most convincing group. The group with the most tickets wins!</li>\n</ol>\n<p>This is the Golden Ticket you will use to vote for your favorite destination! </p>\n<p><img src=\"{{context_path}}/content/resources/Elegant Art Deco Train Ticket.png\" width=\"550px\" height=\"390\" alt=\"Golden Ticket\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Your Mission: The Ultimate Travel Pitch</p>\n<p>To complete this challenge, you and your team must create:</p>\n<p>A Digital Presentation (Genially): Showcasing the highlights of your chosen UK or Irish city.<br />The Comparison Chart: A visual tool comparing your city with others to prove yours is the best.<br />The Oral Pitch: A 3-minute presentation to convince your classmates to spend their \"Golden Ticket\" on your destination.</p>\n<p>_____________________________________________________________________________________________________</p>\n<p><strong>Plan B: Analog Backup</strong> (Avoid Digital Fatigue)<br />Following our \"Digital Wellbeing\" policy, if you feel overwhelmed by screens or have technical issues:</p>\n<ul>\n<li>Paper Templates: You can ask me for a physical Comparison Grid. Fill it out by hand first!<br /></li>\n<li>Offline Drafts: You can prepare your speech and drawings on paper before moving to the digital design.</li>\n<li>Physical Resources: These templates are provided by the teacher in class as printed handouts.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977798511-qx2a8pdpg</odePageId>
+      <odeBlockId>block-1777980871659-9wfxadac5</odeBlockId>
+      <blockName>Pedagogical Rationale (Teacher&apos;s Notes)</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977798511-qx2a8pdpg</odePageId>
+          <odeBlockId>block-1777980871659-9wfxadac5</odeBlockId>
+          <odeIdeviceId>idevice-1777980871653-eiuxnc9lv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p style="text-align: justify;">He elegido combinar Genially y Padlet porque Genially  permite al alumnado apoyarse en lo visual (fotos de Pixabay, mapas, iconos), lo que les quita ese miedo inicial a hablar en público si no tienen un soporte delante. Luego, al subirlo todo a Padlet, creamos una especie de "muro de la fama" donde todos pueden ver el trabajo de los demás de un vistazo, algo que ayuda mucho a que se sientan orgullosos de lo que han hecho y facilita que se evalúen entre ellos de forma natural.</p>
+<p style="text-align: justify;">Pensando en la diversidad de la EOI, siempre tengo perfiles muy variados, no quería que la tecnología fuera un obstáculo. Por eso, he formalizado lo de los "Expertos Digitales": en cada grupo hay alguien que controla más y ayuda al resto. Así, yo puedo centrarme en corregir el inglés mientras ellos se ayudan con la parte técnica. Además, trato de que usen textos alternativos y audios para que el material sea lo más accesible posible para todos.</p>
+<p style="text-align: justify;">Gestión del estrés y "Cansancio Digital" (Plan B) Tras reflexionar sobre lo que me ha pasado otros años, he incluido un Plan B muy claro. Si alguien se agobia con tanta pantalla o si internet nos deja tirados, tengo preparadas plantillas en papel (PDF) para que puedan organizar su viaje a mano. También permito que me entreguen archivos locales (un PowerPoint de toda la vida) para evitar esa ansiedad de "no se me carga la web". Al final, lo que me importa es que aprendan a comunicarse y que la herramienta sea un apoyo, no una barrera.</p>
+<p style="text-align: justify;">Created by Pepe Ruiz Mesa. License: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980871653-eiuxnc9lv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p style=\"text-align: justify;\">He elegido combinar Genially y Padlet porque Genially  permite al alumnado apoyarse en lo visual (fotos de Pixabay, mapas, iconos), lo que les quita ese miedo inicial a hablar en público si no tienen un soporte delante. Luego, al subirlo todo a Padlet, creamos una especie de \"muro de la fama\" donde todos pueden ver el trabajo de los demás de un vistazo, algo que ayuda mucho a que se sientan orgullosos de lo que han hecho y facilita que se evalúen entre ellos de forma natural.</p>\n<p style=\"text-align: justify;\">Pensando en la diversidad de la EOI, siempre tengo perfiles muy variados, no quería que la tecnología fuera un obstáculo. Por eso, he formalizado lo de los \"Expertos Digitales\": en cada grupo hay alguien que controla más y ayuda al resto. Así, yo puedo centrarme en corregir el inglés mientras ellos se ayudan con la parte técnica. Además, trato de que usen textos alternativos y audios para que el material sea lo más accesible posible para todos.</p>\n<p style=\"text-align: justify;\">Gestión del estrés y \"Cansancio Digital\" (Plan B) Tras reflexionar sobre lo que me ha pasado otros años, he incluido un Plan B muy claro. Si alguien se agobia con tanta pantalla o si internet nos deja tirados, tengo preparadas plantillas en papel (PDF) para que puedan organizar su viaje a mano. También permito que me entreguen archivos locales (un PowerPoint de toda la vida) para evitar esa ansiedad de \"no se me carga la web\". Al final, lo que me importa es que aprendan a comunicarse y que la herramienta sea un apoyo, no una barrera.</p>\n<p style=\"text-align: justify;\">Created by Pepe Ruiz Mesa. License: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>0accee7e-391c-4c7a-beae-5f8f9568693f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ROADMAP</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ROADMAP</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ROADMAP</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>0accee7e-391c-4c7a-beae-5f8f9568693f</odePageId>
+      <odeBlockId>block-1777979279530-xh9v64m2t</odeBlockId>
+      <blockName>Visual Roadmap: Your Travel Journey</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0accee7e-391c-4c7a-beae-5f8f9568693f</odePageId>
+          <odeBlockId>block-1777979279530-xh9v64m2t</odeBlockId>
+          <odeIdeviceId>idevice-1777979279526-ch4q8am0z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIoLbvwWw/KDYq3kyZ7lD1UV8ABw9sdQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIoLbvwWw/KDYq3kyZ7lD1UV8ABw9sdQ/view?utm_content=DAHIoLbvwWw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Interactive Group Learning Timeline Infographic</a> de Pepe Ruiz Mesa</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979279526-ch4q8am0z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIoLbvwWw/KDYq3kyZ7lD1UV8ABw9sdQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIoLbvwWw/KDYq3kyZ7lD1UV8ABw9sdQ/view?utm_content=DAHIoLbvwWw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Interactive Group Learning Timeline Infographic</a> de Pepe Ruiz Mesa</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0accee7e-391c-4c7a-beae-5f8f9568693f</odePageId>
+      <odeBlockId>block-1778148851562-z0szbu9ac</odeBlockId>
+      <blockName>Author &amp; License</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0accee7e-391c-4c7a-beae-5f8f9568693f</odePageId>
+          <odeBlockId>block-1778148851562-z0szbu9ac</odeBlockId>
+          <odeIdeviceId>idevice-1778148851559-gnp6rwmn8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Graphic created by Pepe Ruiz Mesa via Canva. License: CC BY-NC-SA 4.0.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148851559-gnp6rwmn8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Graphic created by Pepe Ruiz Mesa via Canva. License: CC BY-NC-SA 4.0.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977824891-fld78uzlu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RESOURCE BANK</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RESOURCE BANK</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RESOURCE BANK</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977856659-dge08byzt</odePageId>
+  <odeParentPageId>page-1777977824891-fld78uzlu</odeParentPageId>
+  <pageName>Student Resources</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Student Resources</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Student Resources</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977856659-dge08byzt</odePageId>
+      <odeBlockId>block-1778003515777-wji6cfwet</odeBlockId>
+      <blockName>Support Materials &amp; Plan B</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977856659-dge08byzt</odePageId>
+          <odeBlockId>block-1778003515777-wji6cfwet</odeBlockId>
+          <odeIdeviceId>idevice-1778003515772-f1e47itwf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong title="">Digital Resources</strong><br title="" />Click on the following link to access all the support materials (Genially tutorials, images, and grammar):  <a href="[https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp](https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp)" target="_blank" title="" rel="noopener">Resources Padlet</a> and 👉 <a href="https://drive.google.com/file/d/1P4Hisi07amEk5hy1AJr-R3a4nAjy1Qvy/view?usp=sharing" target="_blank" rel="noopener" style="color: #0d6efd;">Here </a>you can download  your Golden Ticket to vote for the best city.</p>
+<p><strong>Plan B: Analogue Resources</strong><br />If you feel "digital fatigue" or have connection issues, don't worry! You can use <a href="https://drive.google.com/file/d/1y2uPOsiYXp1yaSJdB76hEiwfnwtFs9eU/view?usp=sharing" target="_blank" rel="noopener">these</a> physical templates to organize your ideas before going digital:</p>
+<p>Comparison Grid: Use the printed template provided in class.<br />Drafting Sheet: Use your notebook to write the first version of your "pitch".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003515772-f1e47itwf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong title=\"\">Digital Resources</strong><br title=\"\" />Click on the following link to access all the support materials (Genially tutorials, images, and grammar):  <a href=\"[https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp](https://padlet.com/peperuiz1/the-golden-ticket-your-journey-starts-here-resources-uzpoh8sxvdmi6bdp)\" target=\"_blank\" title=\"\" rel=\"noopener\">Resources Padlet</a> and 👉 <a href=\"https://drive.google.com/file/d/1P4Hisi07amEk5hy1AJr-R3a4nAjy1Qvy/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" style=\"color: #0d6efd;\">Here </a>you can download  your Golden Ticket to vote for the best city.</p>\n<p><strong>Plan B: Analogue Resources</strong><br />If you feel \"digital fatigue\" or have connection issues, don't worry! You can use <a href=\"https://drive.google.com/file/d/1y2uPOsiYXp1yaSJdB76hEiwfnwtFs9eU/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">these</a> physical templates to organize your ideas before going digital:</p>\n<p>Comparison Grid: Use the printed template provided in class.<br />Drafting Sheet: Use your notebook to write the first version of your \"pitch\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977868978-x6rogx1fn</odePageId>
+  <odeParentPageId>page-1777977824891-fld78uzlu</odeParentPageId>
+  <pageName>Teacher Resources</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teacher Resources</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Teacher Resources</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977868978-x6rogx1fn</odePageId>
+      <odeBlockId>block-1778019095831-6vgd21ffw</odeBlockId>
+      <blockName>Methodological Framework &amp; Tools</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977868978-x6rogx1fn</odePageId>
+          <odeBlockId>block-1778019095831-6vgd21ffw</odeBlockId>
+          <odeIdeviceId>idevice-1778019095828-ta42vbrih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">This pedagogical proposal is rooted in Project-Based Learning (PBL), aiming to help A2 students achieve solid communicative competence through a motivating, real-world task. Throughout the 2 sessions, we focus on the practical integration of comparative structures and specific holiday and travel-related vocabulary. To support the classroom flow, I have developed a comprehensive teacher's guide that outlines each phase and provides model comparison charts for students to follow. The digital ecosystem of this project relies on a blend of tools: HeyGen for the initial engagement, Genially for creative design, and Padlet as a centralized resource hub.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019095828-ta42vbrih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">This pedagogical proposal is rooted in Project-Based Learning (PBL), aiming to help A2 students achieve solid communicative competence through a motivating, real-world task. Throughout the 2 sessions, we focus on the practical integration of comparative structures and specific holiday and travel-related vocabulary. To support the classroom flow, I have developed a comprehensive teacher's guide that outlines each phase and provides model comparison charts for students to follow. The digital ecosystem of this project relies on a blend of tools: HeyGen for the initial engagement, Genially for creative design, and Padlet as a centralized resource hub.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ASSESSMENT</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ASSESSMENT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+      <odeBlockId>block-1778019185251-znepezd20</odeBlockId>
+      <blockName>Student progress</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+          <odeBlockId>block-1778019185251-znepezd20</odeBlockId>
+          <odeIdeviceId>idevice-1778019185249-t0gzcjs1b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">To evaluate student progress, I have implemented a shared assessment approach that considers both the final product and the communication process. We will use a detailed rubric focused on the grammatical accuracy of comparatives, the visual quality of the Genially designs, and, crucially, the fluency and persuasive power shown during the oral pitch. Furthermore, to encourage active participation, every student is given a "Golden Ticket" to vote for their favorite presentation, turning the project's conclusion into a natural and engaging peer-evaluation dynamic.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019185249-t0gzcjs1b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">To evaluate student progress, I have implemented a shared assessment approach that considers both the final product and the communication process. We will use a detailed rubric focused on the grammatical accuracy of comparatives, the visual quality of the Genially designs, and, crucially, the fluency and persuasive power shown during the oral pitch. Furthermore, to encourage active participation, every student is given a \"Golden Ticket\" to vote for their favorite presentation, turning the project's conclusion into a natural and engaging peer-evaluation dynamic.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+      <odeBlockId>block-1778151222604-g2vwh6der</odeBlockId>
+      <blockName>Complete the digital checklist to track your group&apos;s progress. Complete the google form to submit your status</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+          <odeBlockId>block-1778151222604-g2vwh6der</odeBlockId>
+          <odeIdeviceId>idevice-1778151222603-q1paqnay5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="640" height="2224" src="https://docs.google.com/forms/d/e/1FAIpQLSeLm7izzaT7mvkH32OVHVQHngMoIdvZZlEcZUJY51gLUwLu7g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778151222603-q1paqnay5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"2224\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeLm7izzaT7mvkH32OVHVQHngMoIdvZZlEcZUJY51gLUwLu7g/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+      <odeBlockId>block-1778023024934-krs8ght9r</odeBlockId>
+      <blockName>Are you ready for the challenge? Click the button below to test your grammar and vocabulary skills!&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+          <odeBlockId>block-1778023024934-krs8ght9r</odeBlockId>
+          <odeIdeviceId>idevice-1778023024930-j7dvtvrnc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> CLICK HERE TO <a href="https://wayground.com/join?gc=51298449" target="_blank" title="" rel="noopener">START THE QUIZIZZ</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778023024930-j7dvtvrnc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> CLICK HERE TO <a href=\"https://wayground.com/join?gc=51298449\" target=\"_blank\" title=\"\" rel=\"noopener\">START THE QUIZIZZ</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+      <odeBlockId>block-1778153108297-ype3aa1pu</odeBlockId>
+      <blockName>Oral Pitch &amp; Design Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+          <odeBlockId>block-1778153108297-ype3aa1pu</odeBlockId>
+          <odeIdeviceId>idevice-1778153108294-uj6qwsnt2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Final assessment.JPG" width="505" height="459" alt="Final assessment" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153108294-uj6qwsnt2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Final assessment.JPG\" width=\"505\" height=\"459\" alt=\"Final assessment\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+      <odeBlockId>block-1778153996649-6pds6vvpx</odeBlockId>
+      <blockName>PEDAGOGICAL NOTE FOR THE TUTOR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977888131-vgnlpkcsf</odePageId>
+          <odeBlockId>block-1778153996649-6pds6vvpx</odeBlockId>
+          <odeIdeviceId>idevice-1778153996646-nzzjqki77</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nota aclaratoria para la evaluación del curso:</p>
+<p>Esta sección de evaluación ha sido diseñada para ser totalmente operativa:</p>
+<p>El <strong>Instrumento</strong> <strong>1 (Checklist):</strong> Implementado mediante Google Forms para que el alumnado reciba feedback inmediato y yo pueda monitorizar el progreso en tiempo real.</p>
+<p><br />El <strong>Instrumento 2 (Quizizz)</strong>: Gamificación para evaluar la base gramatical antes de la producción final.</p>
+<p><br />El <strong>Instrumento 3 (Rúbrica)</strong>: Evaluación sumativa que se contrasta con los datos de los instrumentos anteriores para una calificación global y justa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153996646-nzzjqki77","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nota aclaratoria para la evaluación del curso:</p>\n<p>Esta sección de evaluación ha sido diseñada para ser totalmente operativa:</p>\n<p>El <strong>Instrumento</strong> <strong>1 (Checklist):</strong> Implementado mediante Google Forms para que el alumnado reciba feedback inmediato y yo pueda monitorizar el progreso en tiempo real.</p>\n<p><br />El <strong>Instrumento 2 (Quizizz)</strong>: Gamificación para evaluar la base gramatical antes de la producción final.</p>\n<p><br />El <strong>Instrumento 3 (Rúbrica)</strong>: Evaluación sumativa que se contrasta con los datos de los instrumentos anteriores para una calificación global y justa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITS (Credito)</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITS (Credito)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CREDITS (Credito)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
+      <odeBlockId>block-1778019259864-y9glrkvbx</odeBlockId>
+      <blockName>Project Authorship &amp; Legal Notice</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977899833-bjqvx4t5x</odePageId>
+          <odeBlockId>block-1778019259864-y9glrkvbx</odeBlockId>
+          <odeIdeviceId>idevice-1778019259861-d4lg7wrkg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">This educational material was created by Pepe Ruiz Mesa as part of the Digital Teaching Competence training (Level B2/C1) in 2026.</p>
+<p><strong>Digital Ecosystem &amp; Attributions:</strong></p>
+<p><strong>Design &amp; Graphics:</strong> All visual elements (Roadmap, Golden Ticket, and Templates) have been designed by the author using Canva.<br /><strong>Video Content: </strong>AI-Generated welcome avatar via HeyGen.<br /><strong>Interactive Tools:</strong> Quizizz, Padlet, Genially, and Google Forms.</p>
+<p><strong>License</strong>: This project is published under a Creative Commons BY-NC-SA 4.0 license. This allows other educators to use and adapt the material as long as authorship is recognized, it is not used for commercial purposes, and the resulting work is shared under the same license.</p>
+<p><strong title="">Download Source File:</strong> <a href="https://drive.google.com/file/d/17cwh4TZmVF2y-3jylf67i9GyWATDDtHR/view?usp=sharing" target="_blank" rel="noopener">Click here to download the editable .elp file</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019259861-d4lg7wrkg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">This educational material was created by Pepe Ruiz Mesa as part of the Digital Teaching Competence training (Level B2/C1) in 2026.</p>\n<p><strong>Digital Ecosystem &amp; Attributions:</strong></p>\n<p><strong>Design &amp; Graphics:</strong> All visual elements (Roadmap, Golden Ticket, and Templates) have been designed by the author using Canva.<br /><strong>Video Content: </strong>AI-Generated welcome avatar via HeyGen.<br /><strong>Interactive Tools:</strong> Quizizz, Padlet, Genially, and Google Forms.</p>\n<p><strong>License</strong>: This project is published under a Creative Commons BY-NC-SA 4.0 license. This allows other educators to use and adapt the material as long as authorship is recognized, it is not used for commercial purposes, and the resulting work is shared under the same license.</p>\n<p><strong title=\"\">Download Source File:</strong> <a href=\"https://drive.google.com/file/d/17cwh4TZmVF2y-3jylf67i9GyWATDDtHR/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Click here to download the editable .elp file</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TEACHER&apos;S GUIDE (Guía didáctica)</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEACHER&apos;S GUIDE (Guía didáctica)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TEACHER&apos;S GUIDE (Guía didáctica)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+      <odeBlockId>block-1778005154306-8ax05wid6</odeBlockId>
+      <blockName>Pedagogical Planning (2 Sessions)</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+          <odeBlockId>block-1778005154306-8ax05wid6</odeBlockId>
+          <odeIdeviceId>idevice-1778005154295-h38d4zq61</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Roadmap: Our 2-Session Challenge<br />Session 1: Research &amp; Design (135 min)</p>
+<p>Phase 1 (45 min): Group formation and city discovery using the "Digital Explorer Platform".<br />Phase 2 (90 min): Creating the Genially presentation and the Comparison Chart. Focus on using comparatives and superlatives.<br />Session 2: Pitching &amp; Voting (135 min)</p>
+<p>Phase 1 (45 min): Final touches and rehearsal. Peer-feedback (check each other's drafts).<br />Phase 2 (75 min): The Travel Fair! 3-minute oral pitches by each group.<br />Phase 3 (15 min): The "Golden Ticket" voting ceremony and winner announcement.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005154295-h38d4zq61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Roadmap: Our 2-Session Challenge<br />Session 1: Research &amp; Design (135 min)</p>\n<p>Phase 1 (45 min): Group formation and city discovery using the \"Digital Explorer Platform\".<br />Phase 2 (90 min): Creating the Genially presentation and the Comparison Chart. Focus on using comparatives and superlatives.<br />Session 2: Pitching &amp; Voting (135 min)</p>\n<p>Phase 1 (45 min): Final touches and rehearsal. Peer-feedback (check each other's drafts).<br />Phase 2 (75 min): The Travel Fair! 3-minute oral pitches by each group.<br />Phase 3 (15 min): The \"Golden Ticket\" voting ceremony and winner announcement.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+      <odeBlockId>block-1778149024494-idghkgbll</odeBlockId>
+      <blockName>Curricular Integration (EOI A2)</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777977811236-e3rhgny5v</odePageId>
+          <odeBlockId>block-1778149024494-idghkgbll</odeBlockId>
+          <odeIdeviceId>idevice-1778149024493-xc024ljuy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>To ensure the students meet the A2 Level requirements (EOI), this project assesses the following language activities:</p>
+<p><strong>Written Comprehension (Reading): </strong>Ability to identify relevant information in simple travel descriptions, landmarks, and pricing tables.<br /><strong>Oral Production (The Pitch):</strong> Ability to produce short, prepared presentations about a travel destination using basic connectors and descriptive vocabulary.<br /><strong>Written Production (The Comparison Chart):</strong> Ability to write simple, descriptive texts and comparisons using comparative and superlative adjectives.<br /><strong>Socio-cultural Knowledge:</strong> Identifying landmarks and practical travel information in English-speaking countries.</p>
+<p><strong>Curricular Mapping Table</strong></p>
+<p><img src="{{context_path}}/content/resources/curricular mapping table.JPG" width="662" height="364" alt="curricular mapping" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Author: Pepe Ruiz Mesa – License: CC BY-NC-SA 4.0</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778149024493-xc024ljuy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>To ensure the students meet the A2 Level requirements (EOI), this project assesses the following language activities:</p>\n<p><strong>Written Comprehension (Reading): </strong>Ability to identify relevant information in simple travel descriptions, landmarks, and pricing tables.<br /><strong>Oral Production (The Pitch):</strong> Ability to produce short, prepared presentations about a travel destination using basic connectors and descriptive vocabulary.<br /><strong>Written Production (The Comparison Chart):</strong> Ability to write simple, descriptive texts and comparisons using comparative and superlative adjectives.<br /><strong>Socio-cultural Knowledge:</strong> Identifying landmarks and practical travel information in English-speaking countries.</p>\n<p><strong>Curricular Mapping Table</strong></p>\n<p><img src=\"{{context_path}}/content/resources/curricular mapping table.JPG\" width=\"662\" height=\"364\" alt=\"curricular mapping\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Author: Pepe Ruiz Mesa – License: CC BY-NC-SA 4.0</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
